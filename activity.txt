@@ -18,3 +18,4 @@ Development activity tracking initialized.
 [2025-10-24T08:01:11.000Z] #17 - style: polish typography scale and dark theme contrast
 [2025-10-27T07:15:04.000Z] #18 - feat: add responsive navbar drawer and backdrop filter
 [2025-10-27T12:58:56.000Z] #19 - fix: prevent layout shift during font asset loading
+[2025-10-27T13:58:40.000Z] #20 - fix: handle touch event propagation on card carousel
