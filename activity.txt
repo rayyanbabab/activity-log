@@ -27,3 +27,4 @@ Development activity tracking initialized.
 [2025-11-05T12:55:38.000Z] #26 - feat: implement bilingual toggle with language context
 [2025-11-05T06:15:40.000Z] #27 - feat: add responsive navbar drawer and backdrop filter
 [2025-11-05T10:23:40.000Z] #28 - fix: prevent layout shift during font asset loading
+[2025-11-05T04:01:02.000Z] #29 - fix: handle touch event propagation on card carousel
