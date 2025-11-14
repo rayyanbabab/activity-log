@@ -53,3 +53,4 @@ Development activity tracking initialized.
 [2025-11-13T13:34:11.000Z] #52 - feat: implement bilingual toggle with language context
 [2025-11-13T06:52:01.000Z] #53 - fix: correct border radius overflow on rounded containers
 [2025-11-13T05:52:16.000Z] #54 - refactor: modularize modal dialog markup and transitions
+[2025-11-14T13:29:05.000Z] #55 - docs: update installation steps and environment flags
