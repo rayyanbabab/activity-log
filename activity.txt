@@ -158,3 +158,4 @@ Development activity tracking initialized.
 [2026-01-01T13:03:02.000Z] #157 - fix: correct border radius overflow on rounded containers
 [2026-01-05T13:01:49.000Z] #158 - feat: add responsive navbar drawer and backdrop filter
 [2026-01-06T11:39:42.000Z] #159 - chore: bump package dependencies to secure releases
+[2026-01-06T09:38:49.000Z] #160 - feat: add search debounce and filter query parameters
