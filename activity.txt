@@ -172,3 +172,4 @@ Development activity tracking initialized.
 [2026-01-12T07:59:20.000Z] #171 - style: polish typography scale and dark theme contrast
 [2026-01-14T07:00:45.000Z] #172 - fix: handle touch event propagation on card carousel
 [2026-01-14T13:04:21.000Z] #173 - docs: update installation steps and environment flags
+[2026-01-14T04:17:58.000Z] #174 - fix: correct border radius overflow on rounded containers
