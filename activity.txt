@@ -182,3 +182,4 @@ Development activity tracking initialized.
 [2026-01-16T14:58:02.000Z] #181 - docs: update installation steps and environment flags
 [2026-01-16T05:16:00.000Z] #182 - chore: bump package dependencies to secure releases
 [2026-01-16T03:12:37.000Z] #183 - fix: prevent layout shift during font asset loading
+[2026-01-19T13:39:22.000Z] #184 - docs: add architectural diagram and component guidelines
