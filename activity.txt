@@ -207,3 +207,4 @@ Development activity tracking initialized.
 [2026-01-28T14:41:21.000Z] #206 - fix: handle touch event propagation on card carousel
 [2026-01-28T12:23:27.000Z] #207 - feat: implement bilingual toggle with language context
 [2026-01-30T13:29:42.000Z] #208 - feat: implement bilingual toggle with language context
+[2026-01-30T13:58:52.000Z] #209 - style: polish typography scale and dark theme contrast
