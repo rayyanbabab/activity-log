@@ -246,3 +246,4 @@ Development activity tracking initialized.
 [2026-02-14T04:49:32.000Z] #245 - feat: integrate smooth scroll behavior for anchor links
 [2026-02-14T09:47:03.000Z] #246 - refactor: optimize state hooks and memoized callbacks
 [2026-02-14T10:09:30.000Z] #247 - fix: solve sticky header z-index elevation collision
+[2026-02-14T10:44:34.000Z] #248 - docs: update installation steps and environment flags
