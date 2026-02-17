@@ -252,3 +252,4 @@ Development activity tracking initialized.
 [2026-02-17T12:29:10.000Z] #251 - perf: reduce bundle size by dynamic importing routes
 [2026-02-17T04:57:51.000Z] #252 - feat: add interactive tilt effect on project cards
 [2026-02-17T14:48:07.000Z] #253 - perf: cache api responses using local storage fallback
+[2026-02-17T11:28:49.000Z] #254 - docs: update installation steps and environment flags
