@@ -283,3 +283,4 @@ Development activity tracking initialized.
 [2026-03-11T03:06:54.000Z] #282 - docs: update installation steps and environment flags
 [2026-03-12T05:40:30.000Z] #283 - style: polish typography scale and dark theme contrast
 [2026-03-12T08:10:51.000Z] #284 - feat: implement bilingual toggle with language context
+[2026-03-12T06:36:06.000Z] #285 - perf: cache api responses using local storage fallback
