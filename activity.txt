@@ -297,3 +297,4 @@ Development activity tracking initialized.
 [2026-03-26T08:53:37.000Z] #296 - perf: cache api responses using local storage fallback
 [2026-03-26T05:54:10.000Z] #297 - fix: handle touch event propagation on card carousel
 [2026-03-26T04:16:36.000Z] #298 - fix: solve sticky header z-index elevation collision
+[2026-03-26T04:48:09.000Z] #299 - fix: prevent layout shift during font asset loading
