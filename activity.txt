@@ -302,3 +302,4 @@ Development activity tracking initialized.
 [2026-03-26T09:12:59.000Z] #301 - test: verify form submission and notification toast
 [2026-03-26T03:07:42.000Z] #302 - fix: prevent layout shift during font asset loading
 [2026-03-26T08:34:15.000Z] #303 - refactor: modularize modal dialog markup and transitions
+[2026-03-28T07:19:10.000Z] #304 - docs: add architectural diagram and component guidelines
