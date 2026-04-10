@@ -318,3 +318,4 @@ Development activity tracking initialized.
 [2026-04-09T13:30:17.000Z] #317 - docs: update installation steps and environment flags
 [2026-04-09T06:40:49.000Z] #318 - style: polish typography scale and dark theme contrast
 [2026-04-10T13:42:36.000Z] #319 - fix: prevent layout shift during font asset loading
+[2026-04-10T03:16:29.000Z] #320 - docs: update installation steps and environment flags
