@@ -327,3 +327,4 @@ Development activity tracking initialized.
 [2026-04-10T09:16:32.000Z] #326 - feat: add search debounce and filter query parameters
 [2026-04-10T05:28:19.000Z] #327 - feat: implement bilingual toggle with language context
 [2026-04-10T12:36:52.000Z] #328 - fix: handle touch event propagation on card carousel
+[2026-04-10T06:39:04.000Z] #329 - chore: bump package dependencies to secure releases
