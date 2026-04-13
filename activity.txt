@@ -330,3 +330,4 @@ Development activity tracking initialized.
 [2026-04-10T06:39:04.000Z] #329 - chore: bump package dependencies to secure releases
 [2026-04-10T05:54:08.000Z] #330 - refactor: extract custom animated button component
 [2026-04-12T05:56:33.000Z] #331 - docs: update installation steps and environment flags
+[2026-04-13T13:01:29.000Z] #332 - docs: update installation steps and environment flags
