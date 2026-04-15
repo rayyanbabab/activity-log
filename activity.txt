@@ -337,3 +337,4 @@ Development activity tracking initialized.
 [2026-04-14T09:30:05.000Z] #336 - style: polish typography scale and dark theme contrast
 [2026-04-15T06:44:47.000Z] #337 - refactor: optimize state hooks and memoized callbacks
 [2026-04-15T14:02:54.000Z] #338 - refactor: optimize state hooks and memoized callbacks
+[2026-04-15T11:25:06.000Z] #339 - feat: add search debounce and filter query parameters
