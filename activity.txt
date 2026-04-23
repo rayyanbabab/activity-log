@@ -341,3 +341,4 @@ Development activity tracking initialized.
 [2026-04-16T10:37:59.000Z] #340 - feat: implement bilingual toggle with language context
 [2026-04-18T03:42:56.000Z] #341 - chore: configure prettier and eslint formatting rules
 [2026-04-22T11:37:31.000Z] #342 - feat: add search debounce and filter query parameters
+[2026-04-23T04:31:49.000Z] #343 - fix: handle touch event propagation on card carousel
