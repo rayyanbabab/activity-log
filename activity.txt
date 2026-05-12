@@ -368,3 +368,4 @@ Development activity tracking initialized.
 [2026-05-07T05:34:08.000Z] #367 - fix: handle touch event propagation on card carousel
 [2026-05-12T11:10:52.000Z] #368 - style: polish typography scale and dark theme contrast
 [2026-05-12T10:23:05.000Z] #369 - chore: bump package dependencies to secure releases
+[2026-05-12T08:52:51.000Z] #370 - docs: update installation steps and environment flags
