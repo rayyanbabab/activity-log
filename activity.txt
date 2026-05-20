@@ -382,3 +382,4 @@ Development activity tracking initialized.
 [2026-05-19T12:06:52.000Z] #381 - chore: configure prettier and eslint formatting rules
 [2026-05-19T04:40:29.000Z] #382 - docs: add architectural diagram and component guidelines
 [2026-05-20T04:12:20.000Z] #383 - chore: bump package dependencies to secure releases
+[2026-05-20T03:26:34.000Z] #384 - docs: update installation steps and environment flags
