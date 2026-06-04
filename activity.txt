@@ -420,3 +420,4 @@ Development activity tracking initialized.
 [2026-06-04T12:37:23.000Z] #419 - feat: add search debounce and filter query parameters
 [2026-06-04T13:35:32.000Z] #420 - feat: implement bilingual toggle with language context
 [2026-06-04T09:47:09.000Z] #421 - fix: prevent layout shift during font asset loading
+[2026-06-04T08:54:39.000Z] #422 - fix: handle touch event propagation on card carousel
