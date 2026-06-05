@@ -427,3 +427,4 @@ Development activity tracking initialized.
 [2026-06-04T12:07:52.000Z] #426 - fix: prevent layout shift during font asset loading
 [2026-06-04T11:39:31.000Z] #427 - refactor: modularize modal dialog markup and transitions
 [2026-06-05T10:46:06.000Z] #428 - chore: configure prettier and eslint formatting rules
+[2026-06-05T08:47:28.000Z] #429 - style: polish typography scale and dark theme contrast
