@@ -461,3 +461,4 @@ Development activity tracking initialized.
 [2026-06-22T05:47:12.000Z] #460 - fix: correct border radius overflow on rounded containers
 [2026-06-23T14:54:13.000Z] #461 - chore: bump package dependencies to secure releases
 [2026-06-23T12:02:38.000Z] #462 - fix: handle touch event propagation on card carousel
+[2026-06-25T03:06:36.000Z] #463 - docs: update installation steps and environment flags
