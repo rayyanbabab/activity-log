@@ -467,3 +467,4 @@ Development activity tracking initialized.
 [2026-06-26T09:20:43.000Z] #466 - feat: add interactive tilt effect on project cards
 [2026-06-27T07:40:09.000Z] #467 - fix: prevent layout shift during font asset loading
 [2026-06-29T11:00:14.000Z] #468 - feat: add interactive tilt effect on project cards
+[2026-06-30T10:08:55.000Z] #469 - docs: update installation steps and environment flags
