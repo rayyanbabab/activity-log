@@ -479,3 +479,4 @@ Development activity tracking initialized.
 [2026-07-03T08:31:50.000Z] #478 - feat: add interactive tilt effect on project cards
 [2026-07-03T09:06:40.000Z] #479 - feat: integrate smooth scroll behavior for anchor links
 [2026-07-03T03:26:08.000Z] #480 - feat: implement bilingual toggle with language context
+[2026-07-03T08:33:35.000Z] #481 - docs: update installation steps and environment flags
