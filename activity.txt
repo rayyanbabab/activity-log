@@ -486,3 +486,4 @@ Development activity tracking initialized.
 [2026-07-06T08:46:57.000Z] #485 - fix: handle touch event propagation on card carousel
 [2026-07-06T03:15:24.000Z] #486 - refactor: modularize modal dialog markup and transitions
 [2026-07-06T12:46:17.000Z] #487 - chore: configure prettier and eslint formatting rules
+[2026-07-06T14:45:14.000Z] #488 - feat: add search debounce and filter query parameters
