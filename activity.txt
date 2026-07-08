@@ -498,3 +498,4 @@ Development activity tracking initialized.
 [2026-07-08T10:19:58.000Z] #497 - chore: bump package dependencies to secure releases
 [2026-07-08T04:15:48.000Z] #498 - fix: handle touch event propagation on card carousel
 [2026-07-08T14:11:20.000Z] #499 - refactor: modularize modal dialog markup and transitions
+[2026-07-08T08:40:01.000Z] #500 - docs: add architectural diagram and component guidelines
