@@ -495,3 +495,4 @@ Development activity tracking initialized.
 [2026-07-07T07:07:22.000Z] #494 - style: polish typography scale and dark theme contrast
 [2026-07-08T10:58:52.000Z] #495 - style: polish typography scale and dark theme contrast
 [2026-07-08T05:12:06.000Z] #496 - fix: prevent layout shift during font asset loading
+[2026-07-08T10:19:58.000Z] #497 - chore: bump package dependencies to secure releases
