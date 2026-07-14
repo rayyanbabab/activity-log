@@ -509,3 +509,4 @@ Development activity tracking initialized.
 [2026-07-11T07:09:11.000Z] #508 - feat: add responsive navbar drawer and backdrop filter
 [2026-07-13T12:56:06.000Z] #509 - fix: prevent layout shift during font asset loading
 [2026-07-13T14:56:26.000Z] #510 - feat: add responsive navbar drawer and backdrop filter
+[2026-07-14T13:15:06.000Z] #511 - fix: handle touch event propagation on card carousel
