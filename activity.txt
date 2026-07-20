@@ -520,3 +520,4 @@ Development activity tracking initialized.
 [2026-07-20T14:20:10.000Z] #519 - fix: solve sticky header z-index elevation collision
 [2026-07-20T11:44:51.000Z] #520 - chore: configure prettier and eslint formatting rules
 [2026-07-20T07:36:16.000Z] #521 - chore: configure prettier and eslint formatting rules
+[2026-07-20T07:07:42.000Z] #522 - fix: handle touch event propagation on card carousel
