@@ -564,3 +564,4 @@ Development activity tracking initialized.
 [2026-08-12T03:02:13.000Z] #563 - feat: add responsive navbar drawer and backdrop filter
 [2026-08-13T03:55:51.000Z] #564 - fix: solve sticky header z-index elevation collision
 [2026-08-13T03:55:29.000Z] #565 - feat: add interactive tilt effect on project cards
+[2026-08-13T08:41:09.000Z] #566 - docs: add architectural diagram and component guidelines
