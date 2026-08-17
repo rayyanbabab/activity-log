@@ -572,3 +572,4 @@ Development activity tracking initialized.
 [2026-08-17T08:16:10.000Z] #571 - fix: handle touch event propagation on card carousel
 [2026-08-17T06:09:36.000Z] #572 - feat: add responsive navbar drawer and backdrop filter
 [2026-08-17T04:41:56.000Z] #573 - docs: update installation steps and environment flags
+[2026-08-17T12:35:11.000Z] #574 - perf: reduce bundle size by dynamic importing routes
