@@ -571,3 +571,4 @@ Development activity tracking initialized.
 [2026-08-17T13:54:54.000Z] #570 - test: verify form submission and notification toast
 [2026-08-17T08:16:10.000Z] #571 - fix: handle touch event propagation on card carousel
 [2026-08-17T06:09:36.000Z] #572 - feat: add responsive navbar drawer and backdrop filter
+[2026-08-17T04:41:56.000Z] #573 - docs: update installation steps and environment flags
