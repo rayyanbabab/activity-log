@@ -575,3 +575,4 @@ Development activity tracking initialized.
 [2026-08-17T12:35:11.000Z] #574 - perf: reduce bundle size by dynamic importing routes
 [2026-08-17T10:39:58.000Z] #575 - refactor: optimize state hooks and memoized callbacks
 [2026-08-17T12:23:06.000Z] #576 - chore: configure prettier and eslint formatting rules
+[2026-08-18T11:11:59.000Z] #577 - feat: add search debounce and filter query parameters
