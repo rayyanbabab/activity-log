@@ -589,3 +589,4 @@ Development activity tracking initialized.
 [2026-08-21T06:45:38.000Z] #588 - docs: update installation steps and environment flags
 [2026-08-25T09:42:06.000Z] #589 - fix: prevent layout shift during font asset loading
 [2026-08-26T03:26:57.000Z] #590 - feat: implement bilingual toggle with language context
+[2026-08-27T05:01:20.000Z] #591 - fix: correct border radius overflow on rounded containers
