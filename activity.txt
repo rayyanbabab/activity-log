@@ -658,3 +658,4 @@ Development activity tracking initialized.
 [2026-10-06T10:21:24.000Z] #657 - fix: handle touch event propagation on card carousel
 [2026-10-07T10:55:12.000Z] #658 - feat: integrate smooth scroll behavior for anchor links
 [2026-10-07T13:18:23.000Z] #659 - feat: implement bilingual toggle with language context
+[2026-10-08T07:21:02.000Z] #660 - refactor: modularize modal dialog markup and transitions
