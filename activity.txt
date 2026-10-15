@@ -684,3 +684,4 @@ Development activity tracking initialized.
 [2026-10-14T14:51:57.000Z] #683 - chore: bump package dependencies to secure releases
 [2026-10-14T10:15:01.000Z] #684 - refactor: optimize state hooks and memoized callbacks
 [2026-10-15T04:09:47.000Z] #685 - fix: prevent layout shift during font asset loading
+[2026-10-15T14:47:33.000Z] #686 - docs: add architectural diagram and component guidelines
