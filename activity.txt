@@ -686,3 +686,4 @@ Development activity tracking initialized.
 [2026-10-15T04:09:47.000Z] #685 - fix: prevent layout shift during font asset loading
 [2026-10-15T14:47:33.000Z] #686 - docs: add architectural diagram and component guidelines
 [2026-10-15T10:50:57.000Z] #687 - style: polish typography scale and dark theme contrast
+[2026-10-15T09:44:38.000Z] #688 - feat: add search debounce and filter query parameters
